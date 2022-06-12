@@ -12,14 +12,14 @@ function resta(a, b = 20) {
 const total = resta(8);
 console.log(total);
 
-function multiplo = function (a, b) {
+const multiplo = function (a, b) {
   return a * b;
 };
 
 const regreso = multiplo(12, 2);
 console.log(regreso);
 
-function division = (t, n) => {
+const division = (t, n) => {
   return t / n;
 };
 
